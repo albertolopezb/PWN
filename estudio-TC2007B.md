@@ -19,7 +19,7 @@ Opción múltiple, 4 opciones, 1 correcta. Idea central de todas las guías: **l
 Versión de una línea (para la barra de direcciones):
 
 ```
-MENOR=correcta | +5 c/absoluto(solo siempre todo nunca garantiza basta) +6 porque +8 demuestra/asegura +3 debe/empieza no | -3 c/coma -1 y/puede/según -7 no garantiza/no basta/no siempre -8 o
+MENOR=correcta | +5 c/absoluto(solo siempre todo nunca garantiza) +6 porque +8 demuestra +3 debe/empieza no | -3 c/coma -1 y/puede -7 no garantiza/no basta/no siempre -8 o
 ```
 
 **SUMAN (señal de opción incorrecta)**
