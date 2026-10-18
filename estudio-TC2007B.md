@@ -16,6 +16,12 @@ Opción múltiple, 4 opciones, 1 correcta. Idea central de todas las guías: **l
 
 ## 2. Tabla de puntos (menor puntaje = más probable la correcta)
 
+Versión de una línea (cabe en la barra de direcciones):
+
+```
+MENOR=correcta | +5 solo/siempre/todo +6 porque +8 demuestra +3 debe/no- | -3 coma -8 o -7 no garantiza -1 y/puede
+```
+
 **SUMAN (señal de opción incorrecta)**
 
 | Qué ves | Puntos | Cómo contar |
