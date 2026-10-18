@@ -16,16 +16,10 @@ Opción múltiple, 4 opciones, 1 correcta. Idea central de todas las guías: **l
 
 ## 2. Tabla de puntos (menor puntaje = más probable la correcta)
 
-Versión corta (cabe en la barra de direcciones):
+Versión de una línea (para la barra de direcciones):
 
 ```
-MENOR=correcta | +5 solo/siempre/todo +6 porque +8 demuestra +3 debe/no- | -3 coma -8 o -7 no garantiza -1 y/puede
-```
-
-Versión larga (con las familias de palabras):
-
-```
-MENOR=correcta | +5 c/absoluto(solo siempre todo nunca garantiza basta nada) +6 porque/ya que +8 demuestra/comprueba/asegura/elimina +3 debe/es necesario/empieza con no | -3 c/coma -1 y -1 puede/según/suele/conviene -7 no garantiza/no basta/no implica/no siempre -8 o
+MENOR=correcta | +5 c/absoluto(solo siempre todo nunca garantiza basta) +6 porque +8 demuestra/asegura +3 debe/empieza no | -3 c/coma -1 y/puede/según -7 no garantiza/no basta/no siempre -8 o
 ```
 
 **SUMAN (señal de opción incorrecta)**
